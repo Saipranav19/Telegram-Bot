@@ -3,7 +3,7 @@ import mysql.connector
 
 # Telegram bot token
 TOKEN = '5613753671:AAEb164Mq7QIKQR-uKuzFyai9-Fxyj4-HbI'
-store_owner_id = 'Vaastav_p'
+store_owner_id = 'Pranav'
 
 # MySQL database connection details
 DB_HOST = 'localhost'
